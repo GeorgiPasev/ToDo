@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# PyCharm project files
+.idea/
+
+# SQLite database (add if you use it)
+*.sqlite3
+
+# Environment variables
+.env
+
+# Logs
+*.log
